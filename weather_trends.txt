@@ -1,0 +1,3 @@
+1. The highest temperatures are found at approximately 30 latitude.
+2. The farther away from latitude 30, the lower the temperature.
+3. At 30 latitude, where the temperature is the highest, is the least common latitude to have full cloudiness.
